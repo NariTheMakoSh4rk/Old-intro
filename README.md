@@ -22,7 +22,7 @@ ${\color{#4d6999}\normalsize{Mirror⠀Prns}}$
 𝙇𝙤𝙫𝙚 𝙢𝙚 '𝙩𝙞𝙡 𝙄 𝙡𝙤𝙫𝙚 𝙮𝙤𝙪 𝙩𝙤𝙤 𝙢𝙪𝙘𝙝, 𝙇𝙚𝙖𝙫𝙚 𝙢𝙚 '𝙩𝙞𝙡 𝙮𝙤𝙪 𝙣𝙚𝙚𝙙 𝙢𝙚 𝙖𝙜𝙖𝙞𝙣.
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=NariTheMakoShark&color=grey" alt="watching_count" />
+<img src="https://hits.sh/github.com/NariTheMakoSh4rk.svg?style=plastic&label=Viewed&extraCount=967&color=e0986d&labelColor=7c665d&logo=roblox" alt="Description" width="100">
 </p>
 
 <details>
